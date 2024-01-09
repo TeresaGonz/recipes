@@ -5,6 +5,7 @@ Ingredients:
 -salt 
 -lime
 -garlic
+-sugar 
 
 Instructions: 
 - mash avocados 
